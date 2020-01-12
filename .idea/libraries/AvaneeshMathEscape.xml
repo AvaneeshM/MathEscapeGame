@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AvaneeshMathEscape">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MathEscapeGame/AvaneeshMathEscape/dist/AvaneeshMathEscape.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
